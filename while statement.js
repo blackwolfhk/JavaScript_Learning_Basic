@@ -63,3 +63,34 @@ while (a < 9) {
 }
 
 
+// Use while statement to create below * style:
+//  *****
+//   ****
+//    ***
+//     **
+//      *
+
+
+let a = 0
+while (a < 5) {
+    let star = ' '
+
+    let c = 0 //Adding space
+    while (c < a) {
+        star = star + ' '
+        c = c + 1
+    }
+
+    let b = 5 - a // Reducing stars
+    while (b > 0) {
+        star = star + '*'
+        b = b - 1 // reduce the number of star each loop
+    }
+
+    console.log(star)
+    a = a + 1
+}
+
+
+
+
