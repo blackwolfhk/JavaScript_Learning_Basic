@@ -6,11 +6,11 @@
 // The four nucleotides found in RNA are adenine (A), cytosine (C), guanine (G) and uracil (U).
 // Given a DNA strand, its transcribed RNA strand is formed by replacing each nucleotide with its complement:
 
-//             DNA	RNA
-//              G	  C
-//              C	  G
-//              T     A
-//              A	  U
+//  DNA	RNA
+//  G     C
+//  C     G
+//  T     A
+//  A     U
 
 // rnaTranscription("GCTAGCT")
 // > "CGAUCGA"
