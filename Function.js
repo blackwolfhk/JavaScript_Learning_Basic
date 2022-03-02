@@ -9,7 +9,7 @@
 //             DNA	RNA
 //              G	  C
 //              C	  G
-//              T  	A
+//              T     A
 //              A	  U
 
 // rnaTranscription("GCTAGCT")
