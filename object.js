@@ -62,7 +62,7 @@ console.log(checkDuplicate)
 // Please use JavaScript's data types (Object, Array, String, Number, etc) to construct a variable holding below data:
 
 // Name	   Height	  Hobbies
-// Peter	175	      Football, Basketball
+// Peter    175.      Football, Basketball
 // John	    180	      Basketball, Sleeping
 // Betty    170	      Reading
 // Mary	    160	      Eating, Sleeping, Reading
