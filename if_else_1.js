@@ -1,6 +1,6 @@
 // A very simple if...else example
 
-const marketCap = 123456789 // <- to input any amount of marketdap here
+const marketCap = 123456789 // <- to input any amount of marketcap here
 
 if (marketCap >= 500000000) {
     console.log("The company might be qualified to list on Main Board~")
@@ -9,3 +9,5 @@ if (marketCap >= 500000000) {
 } else {
     console.log("The company might give up to list~")
 }
+
+// The company might be qualified to list on GEM~
